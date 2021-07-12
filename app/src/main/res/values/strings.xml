@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Countries of the World</string>
+    <string name="image_of_the_country_flag">Image of the country flag</string>
+    <string name="country">Country:</string>
+    <string name="population">Population:</string>
+    <string name="capital_city">Capital City:</string>
+    <string name="region">Region:</string>
+    <string name="subregion">Subregion:</string>
+    <string name="timezones">Timezones:</string>
+</resources>
